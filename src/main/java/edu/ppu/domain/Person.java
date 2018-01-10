@@ -1,6 +1,7 @@
 package edu.ppu.domain;
 
 public class Person {
+	
 	private String name;
 	private Integer age;
 
